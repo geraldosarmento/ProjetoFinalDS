@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetoFinalDSJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoFinalDSJava_jar</output-path>
+    <root id="archive" name="ProjetoFinalDSJava.jar">
+      <element id="module-output" name="ProjetoFinalDSJava" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Curso Jogos/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
